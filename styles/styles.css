@@ -27,7 +27,7 @@ body * {
   max-width: calc(100% - 20px);
   border: 15px solid black;
   border-radius: 20px;
- background-image: url(images/michal-parzuchowski-oT-XbATcoTQ-unsplash.jpg);
+ background-image: url(/images/michal-parzuchowski-oT-XbATcoTQ-unsplash.jpg);
  background-size:cover;
   margin: 0 auto;
   color: white;
